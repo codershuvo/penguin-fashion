@@ -1,0 +1,66 @@
+/* 
+font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+
+
+body {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #FFFBF0;
+    min-height: 650px;
+}
+
+.logo {
+    width: 291px;
+}
+
+.nav-text-highlight li a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #3C3C3C;
+}
+
+.row-height {
+    min-height: 350px;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+h1 .heading-highlight {
+    color: #FABE4C;
+}
+
+.btn-higilight {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+    .logo {
+        width: 160px;
+        height: 26px;
+    }
+    
+}
